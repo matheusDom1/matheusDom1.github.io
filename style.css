@@ -1,0 +1,33 @@
+#sobreMim {
+    font-family: monospace;
+    text-align:start;
+    font-size: 30px;
+   }
+   .letras1 {
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 15px;
+   }
+   body {
+    background-color: rgb(217,79,69);
+   }
+   .dedication {
+    font-size: 20px;
+   }
+   .comunication {
+    font-size: 20px;
+   }
+   .calm {
+    font-size: 20px;
+   }
+   .git1 {
+    font-size: 18px;
+   }
+   .html2 {
+    font-size: 17px;
+   }
+   #intoxi {
+    font-size: 18px;
+   }
+   #Habilidades {
+    text-decoration: underline;
+   }
