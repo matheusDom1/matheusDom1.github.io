@@ -14,14 +14,6 @@
    .font20 {
     font-size: 20px;
    }
-   /* .git1 {
-    font-size: 18px;
-   }
-   .html2 {
-    font-size: 17px;
-   }
-   #intoxi {
-    font-size: 18px; */
    
    h2 {
     text-decoration: underline;
@@ -52,9 +44,11 @@
    * {
     margin: 10px;
    }
+
    div {
     padding: 5px;
    }
+
    a {
     text-decoration: none;
     font-size: 20px;
@@ -62,6 +56,7 @@
    a:hover {
     text-transform: uppercase;
    }
+
    h2 {
     height: 50px;
    }
